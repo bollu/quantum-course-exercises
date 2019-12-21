@@ -1,0 +1,12 @@
+:: files ::
+Operations.qs
+:: qsim ::
+:: references ::
+/home/bollu/.nuget/packages/microsoft.quantum.canon/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Canon.dll
+/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Primitives.dll
+/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.Common.dll
+/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.Core.dll
+/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulators.dll
+:: command ::
+dotnet "/home/bollu/.nuget/packages/microsoft.quantum.development.kit/0.5.1903.2902/build/../tools/qsc/qsc.dll" build --format MsBuild  --input "Operations.qs" --references "/home/bollu/.nuget/packages/microsoft.quantum.canon/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Canon.dll" "/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Primitives.dll" "/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.Common.dll" "/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.Core.dll" "/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll" "/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1903.2902/lib/netstandard2.0/Microsoft.Quantum.Simulators.dll" --output obj/qsharp/src/

@@ -1,0 +1,11 @@
+/home/bollu/iiit/assignments/quantum/grover/bin/Debug/netcoreapp2.0/grover.deps.json
+/home/bollu/iiit/assignments/quantum/grover/bin/Debug/netcoreapp2.0/grover.runtimeconfig.json
+/home/bollu/iiit/assignments/quantum/grover/bin/Debug/netcoreapp2.0/grover.runtimeconfig.dev.json
+/home/bollu/iiit/assignments/quantum/grover/bin/Debug/netcoreapp2.0/grover.dll
+/home/bollu/iiit/assignments/quantum/grover/bin/Debug/netcoreapp2.0/grover.pdb
+/home/bollu/iiit/assignments/quantum/grover/obj/Debug/netcoreapp2.0/grover.csprojAssemblyReference.cache
+/home/bollu/iiit/assignments/quantum/grover/obj/Debug/netcoreapp2.0/grover.csproj.CoreCompileInputs.cache
+/home/bollu/iiit/assignments/quantum/grover/obj/Debug/netcoreapp2.0/grover.AssemblyInfoInputs.cache
+/home/bollu/iiit/assignments/quantum/grover/obj/Debug/netcoreapp2.0/grover.AssemblyInfo.cs
+/home/bollu/iiit/assignments/quantum/grover/obj/Debug/netcoreapp2.0/grover.dll
+/home/bollu/iiit/assignments/quantum/grover/obj/Debug/netcoreapp2.0/grover.pdb

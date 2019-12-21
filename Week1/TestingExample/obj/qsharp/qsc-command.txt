@@ -1,0 +1,28 @@
+:: files ::
+Tasks.qs
+Tests.qs
+:: qsim ::
+:: references ::
+/home/bollu/.nuget/packages/microsoft.dotnet.platformabstractions/1.0.3/lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll
+/home/bollu/.nuget/packages/microsoft.extensions.dependencymodel/1.0.3/lib/netstandard1.6/Microsoft.Extensions.DependencyModel.dll
+/home/bollu/.nuget/packages/microsoft.quantum.canon/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Canon.dll
+/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Primitives.dll
+/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Common.dll
+/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Core.dll
+/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll
+/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulators.dll
+/home/bollu/.nuget/packages/microsoft.quantum.xunit/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Xunit.dll
+/home/bollu/.nuget/packages/microsoft.testplatform.testhost/15.3.0/lib/netstandard1.5/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/bollu/.nuget/packages/microsoft.testplatform.objectmodel/15.3.0/lib/netstandard1.5/Microsoft.TestPlatform.CoreUtilities.dll
+/home/bollu/.nuget/packages/microsoft.testplatform.testhost/15.3.0/lib/netstandard1.5/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/bollu/.nuget/packages/microsoft.testplatform.objectmodel/15.3.0/lib/netstandard1.5/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/bollu/.nuget/packages/microsoft.testplatform.testhost/15.3.0/lib/netstandard1.5/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/bollu/.nuget/packages/microsoft.testplatform.objectmodel/15.3.0/lib/netstandard1.5/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/usr/share/dotnet/sdk/NuGetFallbackFolder/newtonsoft.json/9.0.1/lib/netstandard1.0/Newtonsoft.Json.dll
+/home/bollu/.nuget/packages/microsoft.testplatform.testhost/15.3.0/lib/netstandard1.5/testhost.dll
+/home/bollu/.nuget/packages/xunit.abstractions/2.0.1/lib/netstandard1.0/xunit.abstractions.dll
+/home/bollu/.nuget/packages/xunit.assert/2.3.1/lib/netstandard1.1/xunit.assert.dll
+/home/bollu/.nuget/packages/xunit.extensibility.core/2.3.1/lib/netstandard1.1/xunit.core.dll
+/home/bollu/.nuget/packages/xunit.extensibility.execution/2.3.1/lib/netstandard1.1/xunit.execution.dotnet.dll
+:: command ::
+dotnet "/home/bollu/.nuget/packages/microsoft.quantum.development.kit/0.5.1902.2802/build/../tools/qsc/qsc.dll" build --format MsBuild  --input "Tasks.qs" "Tests.qs" --references "/home/bollu/.nuget/packages/microsoft.dotnet.platformabstractions/1.0.3/lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll" "/home/bollu/.nuget/packages/microsoft.extensions.dependencymodel/1.0.3/lib/netstandard1.6/Microsoft.Extensions.DependencyModel.dll" "/home/bollu/.nuget/packages/microsoft.quantum.canon/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Canon.dll" "/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Primitives.dll" "/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Common.dll" "/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.Core.dll" "/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulation.QCTraceSimulatorRuntime.dll" "/home/bollu/.nuget/packages/microsoft.quantum.simulators/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Simulators.dll" "/home/bollu/.nuget/packages/microsoft.quantum.xunit/0.5.1902.2802/lib/netstandard2.0/Microsoft.Quantum.Xunit.dll" "/home/bollu/.nuget/packages/microsoft.testplatform.testhost/15.3.0/lib/netstandard1.5/Microsoft.TestPlatform.CommunicationUtilities.dll" "/home/bollu/.nuget/packages/microsoft.testplatform.objectmodel/15.3.0/lib/netstandard1.5/Microsoft.TestPlatform.CoreUtilities.dll" "/home/bollu/.nuget/packages/microsoft.testplatform.testhost/15.3.0/lib/netstandard1.5/Microsoft.TestPlatform.CrossPlatEngine.dll" "/home/bollu/.nuget/packages/microsoft.testplatform.objectmodel/15.3.0/lib/netstandard1.5/Microsoft.TestPlatform.PlatformAbstractions.dll" "/home/bollu/.nuget/packages/microsoft.testplatform.testhost/15.3.0/lib/netstandard1.5/Microsoft.VisualStudio.TestPlatform.Common.dll" "/home/bollu/.nuget/packages/microsoft.testplatform.objectmodel/15.3.0/lib/netstandard1.5/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" "/usr/share/dotnet/sdk/NuGetFallbackFolder/newtonsoft.json/9.0.1/lib/netstandard1.0/Newtonsoft.Json.dll" "/home/bollu/.nuget/packages/microsoft.testplatform.testhost/15.3.0/lib/netstandard1.5/testhost.dll" "/home/bollu/.nuget/packages/xunit.abstractions/2.0.1/lib/netstandard1.0/xunit.abstractions.dll" "/home/bollu/.nuget/packages/xunit.assert/2.3.1/lib/netstandard1.1/xunit.assert.dll" "/home/bollu/.nuget/packages/xunit.extensibility.core/2.3.1/lib/netstandard1.1/xunit.core.dll" "/home/bollu/.nuget/packages/xunit.extensibility.execution/2.3.1/lib/netstandard1.1/xunit.execution.dotnet.dll" --output obj/qsharp/src/

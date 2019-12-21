@@ -1,0 +1,14 @@
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/bin/Debug/netcoreapp2.1/TestingExample.deps.json
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/bin/Debug/netcoreapp2.1/TestingExample.runtimeconfig.json
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/bin/Debug/netcoreapp2.1/TestingExample.runtimeconfig.dev.json
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/bin/Debug/netcoreapp2.1/TestingExample.dll
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/bin/Debug/netcoreapp2.1/TestingExample.pdb
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/obj/Debug/netcoreapp2.1/TestingExample.csprojAssemblyReference.cache
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/obj/Debug/netcoreapp2.1/TestingExample.csproj.CoreCompileInputs.cache
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/obj/Debug/netcoreapp2.1/TestingExample.AssemblyInfoInputs.cache
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/obj/Debug/netcoreapp2.1/TestingExample.AssemblyInfo.cs
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/obj/Debug/netcoreapp2.1/TestingExample.dll
+/home/bollu/iiit/assignments/quantum/Week1/TestingExample/obj/Debug/netcoreapp2.1/TestingExample.pdb
